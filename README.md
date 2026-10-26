@@ -111,13 +111,9 @@ python -m scripts.fq_baseline_tex           # -> outputs/tables/supp_tab_{baseli
 ```bash
 python -m scripts.cohort_flow_png           # Figure 1, cohort derivation
 python -m scripts.jacamr_figures            # Figures 2-4: estimates, overlap, frontier
-python -m scripts.cohort_flow_drawio        # editable draw.io version of Figure 1
-python -m scripts.methodology_drawio        # analysis overview diagram (draw.io)
 ```
 
-Figures are written to `outputs/figures/` at 300 dpi. To export the draw.io diagrams to
-PNG, use draw.io:
-`draw.io -x -f png -s 2.5 -o outputs/figures/methodology.png outputs/figures/methodology.drawio`.
+Figures are written to `outputs/figures/` at 300 dpi.
 
 ## Notes on the data that affect the analysis
 
