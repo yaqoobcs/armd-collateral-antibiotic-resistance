@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the ARMD dataset."
+title: "Class-level causal estimates of collateral antibiotic resistance from routine electronic health records: analysis code"
+type: software
+license: MIT
+repository-code: "https://github.com/yaqoobcs/armd-collateral-antibiotic-resistance"
+version: "1.0.0"
+date-released: "2026-10-26"
+authors:
+  - family-names: Yaqoob
+    given-names: Tanzeela
+    affiliation: "School of Health, Medicine and Life Sciences, University of Hertfordshire"
+  - family-names: Yaqoob
+    given-names: Muhammad
+    affiliation: "School of Physics, Engineering and Computer Science, University of Hertfordshire"
+  - family-names: Ibrahim
+    given-names: Muhammad
+    affiliation: "The University of Agriculture, Peshawar; Leiden University"
